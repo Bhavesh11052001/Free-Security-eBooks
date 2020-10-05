@@ -38,7 +38,6 @@ The topics include:
 - [Threat Modeling - Designing for Security](https://news.asis.io/sites/default/files/Threat%20Modeling.pdf)
 
 ----------
-
 ### Offensive Security
 
 - **Backtrack**
@@ -73,25 +72,21 @@ The topics include:
   - [XSS, Vulnerability Exploitation & Website Hacking](http://www.cis.syr.edu/~wedu/seed/Labs/Attacks_XSS/XSS.pdf)
 
 ----------
-
 ### Programming Languages
 - **Python**
   - [Violent Python : A Cookbook for Hackers (2013)](https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf)
 
 ----------
-
 ### Reverse Engineering
 - [Reverse Engineering Hacking and Cracking](https://media.blackhat.com/bh-dc-11/Grand/BlackHat_DC_2011_Grand-Workshop.pdf)
 - [Reverse Engineering for Beginners ](http://www.t-gr.com/fotis/books/re.pdf)
 
 ----------
-
 ### Virus Botnet and Malware
 - [Black Book of Viruses and Hacking](http://www.mediafire.com/download/c8ilcobmyiqooyp/Black+Book+of+Viruses+and+Hacking.zip)
 - [Computer Hacking & Malware Attacks for Dummies](http://www.mediafire.com/download/8derf9dueyq64i5/Computer+Viruses%2C+Hacking+and+Malware+attacks+for+Dummies.zip)
 
 ----------
-
 ### Misc
 - [Computer Hacking - Cyber Laws Harvard](https://cyber.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
 - [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
